@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityarevankarp" alt="adityarevankarp" /></a> </p>
 
-- 🔭 I’m currently working on [Redis](https://github.com/adityarevankarp/Redis)
+- 🔭 I’m currently working on [group share](https://github.com/adityarevankarp/GroupShare-AWS)
 
-- 👯 I’m looking to collaborate on [Redis](https://github.com/adityarevankarp/Redis)
+- 👯 I’m looking to collaborate on [Redis](https://github.com/adityarevankarp/GroupShare-AWS)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-two-rust-78.vercel.app/](https://portfolio-two-rust-78.vercel.app/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@AdityaRevankar](https://hashnode.com/@AdityaRevankar)
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **Node.js/AWS**
 
 - 📫 How to reach me **adityarevankar03@gmail.com**
 
