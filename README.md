@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityarevankarp" alt="adityarevankarp" /></a> </p>
 
-- 🔭 I'm currently working on [neelam.ai](https://neelam.ai) and [GroupShare](https://github.com/adityarevankarp/GroupShare-AWS)
+- 🔭 I'm currently working on [neelam.ai](https://neelam.ai).
 
 - 👯 I'm looking to collaborate on [Redis](https://github.com/adityarevankarp/GroupShare-AWS)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adityarevankar03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19JrB-fITP-Was8HFjznIsDhpeXDPQUZE/view?usp=sharing](https://drive.google.com/file/d/19JrB-fITP-Was8HFjznIsDhpeXDPQUZE/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://portfolio-one-silk-jimojvad7j.vercel.app/resume.pdf)
 
 - ⚡ Fun fact **I don't think I'm funny**
 
